@@ -1,0 +1,10 @@
+# Runtime state and personal documents
+runtime/
+inbox/
+*.log
+
+# Common editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
